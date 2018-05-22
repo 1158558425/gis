@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "算法12", "算法12\算法12.csproj", "{32744A1F-F2C0-413F-8CA0-DF5ABA730CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32744A1F-F2C0-413F-8CA0-DF5ABA730CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32744A1F-F2C0-413F-8CA0-DF5ABA730CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32744A1F-F2C0-413F-8CA0-DF5ABA730CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32744A1F-F2C0-413F-8CA0-DF5ABA730CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CB6FAAB-BC12-4232-AE02-340C95D1EBBE}
+	EndGlobalSection
+EndGlobal
